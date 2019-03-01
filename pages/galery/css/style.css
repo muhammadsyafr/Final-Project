@@ -1,0 +1,69 @@
+body{
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 1px;
+}
+
+.carousel-item {
+    height: 90vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+
+.carousel-caption h2{
+  text-align: left;
+  font-size: 50px;
+  color:#f9f8eb!important;
+  /* text-shadow: 1px 1px #05004e;  */
+  font-family: 'Ubuntu', sans-serif;
+  /* background-color: #f9f8eb; */
+}
+
+.carousel-caption p {
+  text-align: left;
+  color:#f9f8eb;
+  text-shadow: 1px 1px #05004e; 
+  font-family: 'Ubuntu', sans-serif;
+  /* background-color: #05004e; */
+  font-size: 17px;
+}
+
+.navbar-brand{
+  font-size: 25px!important;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-nav a {
+  font-family: 'Lato', sans-serif!important;
+}
+
+.navbar-nav a:hover {
+  color:#fd5f00!important;
+}
+
+.navbar {
+  box-shadow: 0 9px 4px -1px rgba(0,0,0,0.25);
+}
+
+.login a {
+  color:#fd5f00!important;
+  text-decoration: underline;
+}
+
+.footer {
+  margin-top: 0px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 1px 0px 5px 0.5px rgba(0,0,0,0.25);
+}
+
+
+
+
+
+
+  

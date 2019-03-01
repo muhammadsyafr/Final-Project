@@ -1,0 +1,117 @@
+body{
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+}
+.navbar {
+    box-shadow: 0 0.5px 4px -1px rgba(0,0,0,0.25);
+  }
+.navbar-brand{
+    font-size: 25px!important;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+.navbar-nav a:hover {
+    color:#fd5f00!important;
+  }
+
+  .login a {
+      color:#fd5f00!important;
+      text-decoration: underline;
+  }
+  
+.judul h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60px;
+    margin-top: 60px;
+}
+.btn-custom {
+    background-color:#fd5f00;
+    color: white;
+}
+input:focus, textarea:focus {
+    outline: 0!important;
+    box-shadow:none !important;
+}
+input, textarea {
+    background: none!important;
+    color: #c6c6c6!important;
+    font-size: 16px!important;
+    padding: 10px 10px 10px 5px!important;
+    display: block!important;
+    border: none!important;
+    border-radius: 0;
+    border-bottom: 1px solid #c6c6c6!important;
+}
+.batas{
+    border: 0.5px solid rgb(180, 180, 180);
+    height: 330px;
+    margin-top:-20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+}
+p {
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+a {
+    color: #05004e;
+}
+a:hover {
+    color:#05004e;
+}
+
+@media only screen and (max-width: 600px) {
+    h3 {
+        margin-top: 40px!important;
+        letter-spacing: 1px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 30px;
+   }
+}
+
+@media (max-width:768px){
+   /* medium */
+   .judul h1 {
+       margin-top:20px;
+       margin-bottom: 20px;
+   }
+   h1{
+       font-size:50px!important;
+   }
+    h3 {
+        margin-top: 0;
+        letter-spacing: 1px;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 30px;
+   }
+    textarea {
+        height: 4em;
+        width: 22em;
+   }
+    .judul {
+        margin-top: 0px;
+   }
+    a {
+        color: #05004e;
+   }
+    a:hover {
+        color:#05004e;
+   }
+    .batas{
+        border: none;
+        margin-left: -10px;
+        margin-top: -250px!important;
+   }
+
+}
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 1px 0px 5px 0.5px rgba(0,0,0,0.25);
+}

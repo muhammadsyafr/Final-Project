@@ -1,0 +1,65 @@
+{
+    "kajian": [
+        {
+            "ustadz"    : "Ustadz M. Abdullah Sholihun",
+            "materi"    : "Sunah sunah fitrah",
+            "tanggal"   : "Senin, 27 Februari 2019",
+            "waktu"     : "07.00 WIB",
+            "tempat"    : "Masjid Al Mustaqim Baru",
+            "alamat"    : "Sendowo",
+            "post"      : "24/02/2019",
+            "gambar"    : "kajian1.jpg"
+        },
+        {
+            "ustadz"    : "Ustadz Amrullah Akadhinta",
+            "materi"    : "Tafsir Surah Al-Mulk Bagian 3",
+            "tanggal"   : "Minggu, 3 Maret 2019",
+            "waktu"     : "18.30 WIB",
+            "tempat"    : "Masjid Baitul Abror",
+            "alamat"    : "Pantangpuluhan, Yogyakarta",
+            "post"      : "28/02/2019",
+            "gambar"    : "kajian2.jpg"
+        },
+        {
+            "ustadz"    : "Bunda Wening",
+            "materi"    : "Bahaya Cyber Crime",
+            "tanggal"   : "Kamis, 7 Maret 2019",
+            "waktu"     : "08.00 WIB",
+            "tempat"    : "Masjid JAMASBA Bantul",
+            "alamat"    : "Jl. KH Agus Salim No 9A, Bantul",
+            "post"      : "02/03/2019",
+            "gambar"    : "kajian3.jpg"
+        },
+        {
+            "ustadz"    : "Ibnu Jihad",
+            "materi"    : "Mereka dan Kehidupan Mereka Setelah Mati",
+            "tanggal"   : "Jumat, 1 Maret 2019",
+            "waktu"     : "20.00 WIB",
+            "tempat"    : "Musholla Baiturrahman",
+            "alamat"    : "Jatimulyo, Tegalrejo, Yogyakarta",
+            "post"      : "28/02/2019",
+            "gambar"    : "kajian4.jpg"
+        },
+        {
+            "ustadz"    : "Ustadz Muzammil Hasballah, S.T.",
+            "materi"    : "Meraih Keberkahan Hidup dengan Al-Qur'an",
+            "tanggal"   : "Jumat, 1 Maret 2019",
+            "waktu"     : "13.00 WIB",
+            "tempat"    : "Masjid Kampus UMY",
+            "alamat"    : "Tamantirto, Bantul,",
+            "post"      : "28/02/2019",
+            "gambar"    : "kajian5.jpg"
+        },
+        {
+            "ustadz"    : "Ustadz Ahmad Syauqi Soeratno, M.M.",
+            "materi"    : "Masjid Pusat Peradaban Umat",
+            "tanggal"   : "Jumat, 1 Maret 2019",
+            "waktu"     : "20.00 WIB",
+            "tempat"    : "Masjid Baitul Faizin",
+            "alamat"    : "Gamping Lor,",
+            "post"      : "28/02/2019",
+            "gambar"    : "kajian6.jpg"
+        }
+
+    ]
+}

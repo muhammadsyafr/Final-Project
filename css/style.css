@@ -1,0 +1,79 @@
+body{
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+}
+
+.navbar-nav a:hover {
+    color:#fd5f00!important;
+}
+
+.navbar {
+    box-shadow: 0 0.5px 4px -1px rgba(0,0,0,0.25);
+  }
+
+  .navbar-brand{
+    font-size: 25px!important;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .login a {
+    color:#fd5f00!important;
+    text-decoration: underline;
+}
+
+.judul-h5 {
+    text-align: center;
+}
+
+h5 {
+    margin-bottom: -3px;
+    text-decoration: underline;
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #76b39d;
+    letter-spacing: 2px;
+    
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card p {
+    margin-top: -10px!important;
+    
+}
+
+.card h5 {
+    font-size: 18px;
+}
+
+td, tr{
+    font-size: 13px;
+}
+
+td {
+    color: #686868;
+}
+
+small {
+    font-size: 13px;
+}
+
+.btn-custom {
+    background-color:#fd5f00;
+    color:white;
+    outline: none;
+    height: 35px;
+    font-size: 16px;
+    border-radius: 2px;
+    letter-spacing: 2px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 1px 0px 5px 0.5px rgba(0,0,0,0.25);
+}
