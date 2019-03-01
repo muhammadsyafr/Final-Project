@@ -1,6 +1,7 @@
-# Final Project
+# Final Project 
+### Info Kajian Website
 
-# Muhammad Syafrizal Noor Abdillah 
+## Muhammad Syafrizal Noor Abdillah 
 ![AVA](https://i.ibb.co/HVcq4sb/rsz-avataa2ars.png)
  
  ### Installation
